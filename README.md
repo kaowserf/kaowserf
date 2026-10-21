@@ -52,10 +52,6 @@
   <img src="https://streak-stats.demolab.com?user=kaowserf&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaowserf&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
 ### 🐍 Contributions
 
 <p align="center">
